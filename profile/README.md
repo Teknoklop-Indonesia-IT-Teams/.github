@@ -5,10 +5,10 @@ Selamat datang di repositori resmi PT Tekno Klop Indonesia 👋
 Kami adalah perusahaan yang bergerak di bidang Automation, IT Solutions & Laboratory Systems, berfokus pada pengembangan teknologi yang membantu bisnis menjadi lebih efisien, modern, dan terintegrasi.
 
 Kami membangun berbagai solusi seperti:
-💻 Software Development (Web & API)
-🔬 Laboratory Information Systems
-🌐 Digital Transformation & Automation
-📊 Data Management & Monitoring Systems
+- 💻 Software Development (Web & API)
+- 🔬 Laboratory Information Systems
+- 🌐 Digital Transformation & Automation
+- 📊 Data Management & Monitoring Systems
 
 ### 🙋‍♀️ Tentang Kami
 PT Tekno Klop Indonesia hadir untuk membantu perusahaan dalam:
@@ -17,4 +17,5 @@ PT Tekno Klop Indonesia hadir untuk membantu perusahaan dalam:
 - Mengembangkan sistem berbasis teknologi terbaru
 
 Kami percaya bahwa teknologi bukan hanya alat, tapi solusi untuk masa depan.
-🌐 Website Resmi (https://teknoklop.com/)
+
+### 🌐 Website Resmi [https://teknoklop.com/]
