@@ -1,12 +1,20 @@
-## Hi there 👋
+## 🚀 PT Tekno Klop Indonesia
 
-<!--
+Selamat datang di repositori resmi PT Tekno Klop Indonesia 👋
 
-**Here are some ideas to get you started:**
+Kami adalah perusahaan yang bergerak di bidang Automation, IT Solutions & Laboratory Systems, berfokus pada pengembangan teknologi yang membantu bisnis menjadi lebih efisien, modern, dan terintegrasi.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Kami membangun berbagai solusi seperti:
+💻 Software Development (Web & API)
+🔬 Laboratory Information Systems
+🌐 Digital Transformation & Automation
+📊 Data Management & Monitoring Systems
+
+### 🙋‍♀️ Tentang Kami
+PT Tekno Klop Indonesia hadir untuk membantu perusahaan dalam:
+- Mengelola data dengan lebih terstruktur
+- Meningkatkan efisiensi operasional
+- Mengembangkan sistem berbasis teknologi terbaru
+
+Kami percaya bahwa teknologi bukan hanya alat, tapi solusi untuk masa depan.
+🌐 Website Resmi (https://teknoklop.com/)
