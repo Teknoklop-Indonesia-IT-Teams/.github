@@ -19,3 +19,4 @@ PT Tekno Klop Indonesia hadir untuk membantu perusahaan dalam:
 Kami percaya bahwa teknologi bukan hanya alat, tapi solusi untuk masa depan.
 
 ### 🌐 Website Resmi [https://teknoklop.com/]
+### 🌐 Website Profile Resmi [https://companyprofile.teknoklop.com/]
