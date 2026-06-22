@@ -7,7 +7,7 @@ Kami adalah perusahaan yang bergerak di bidang Automation, IT Solutions & Labora
 Kami membangun berbagai solusi seperti:
 - 💻 Software Development (Web & API)
 - 🔬 Laboratory Information Systems
-- 🌐 Digital Transformation & Automation
+- 🤖 Digital Transformation & Automation
 - 📊 Data Management & Monitoring Systems
 
 ### 🙋‍♀️ Tentang Kami
@@ -19,4 +19,4 @@ PT Tekno Klop Indonesia hadir untuk membantu perusahaan dalam:
 Kami percaya bahwa teknologi bukan hanya alat, tapi solusi untuk masa depan.
 
 ### 🌐 Website Resmi [https://teknoklop.com/]
-### 🌐 Website Profile Resmi [https://profile.teknoklop.com/]
+### 💻 Website Profile Resmi [https://profile.teknoklop.com/]
