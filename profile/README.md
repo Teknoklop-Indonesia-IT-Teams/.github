@@ -3,4 +3,3 @@
 Welcome to the official repository of PT Tekno Klop Indonesia 👋
 
 ### 🌐 Website Resmi [https://teknoklop.com/]
-### 💻 Website Profile Resmi [https://profile.teknoklop.com/]
